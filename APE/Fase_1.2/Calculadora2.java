@@ -7,7 +7,7 @@ public class Calculadora2 {
   }    
   
   public static void main(String[] args) {        
-    Calculadora calculadora = new Calculadora();        
+    Calculadora2 calculadora = new Calculadora2();        
     double resultado =                
       calculadora.calcularPromedio(8, 9, 10);        
     System.out.println("Promedio: " + resultado);    
